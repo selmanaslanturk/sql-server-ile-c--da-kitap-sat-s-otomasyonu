@@ -1,0 +1,264 @@
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.exe.config
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.exe
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.pdb
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csprojAssemblyReference.cache
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Form1.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Properties.Resources.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.GenerateResource.cache
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.CoreCompileInputs.cache
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.CopyComplete
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.exe
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.pdb
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Anasayfacs.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\bin\Debug\MaterialSkin.dll
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.admin.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.adres.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.sehircs.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.kategori.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.kitapcs.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.yazar.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.yayinevi.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.p_anasayfa.resources
+C:\Users\selmanaslanturk\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.satislistele.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.exe.config
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.exe
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\kütüphanem.pdb
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\MaterialSkin.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.satislistele.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.p_anasayfa.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.yayinevi.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.yazar.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.kategori.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.kitapcs.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.admin.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Anasayfacs.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Form1.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.adres.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.sehircs.resources
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.exe
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\obj\Debug\kütüphanem.pdb
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Microsoft.Build.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\System.IO.Compression.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\LENOVO\source\repos\kütüphanem\kütüphanem\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\kütüphanem.exe.config
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\kütüphanem.exe
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\kütüphanem.pdb
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\MaterialSkin.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Microsoft.Build.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\System.IO.Compression.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.satislistele.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.p_anasayfa.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.yayinevi.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.yazar.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.kategori.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.kitapcs.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.admin.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.Anasayfacs.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.Form1.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.adres.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.sehircs.resources
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.exe
+C:\Users\LENOVO\Desktop\kitap satış otamasyonu\kütüphanem\obj\Debug\kütüphanem.pdb
